@@ -1,6 +1,6 @@
 {
   "configVersion": 1,
-  "timestamp": 1742097233642,
+  "timestamp": 1742502620819,
   "index": "/pwa-prototype/index.html",
   "assetGroups": [
     {
@@ -13,7 +13,7 @@
       "urls": [
         "/pwa-prototype/favicon.ico",
         "/pwa-prototype/index.html",
-        "/pwa-prototype/main-ROPM5QHV.js",
+        "/pwa-prototype/main-XE65PNVD.js",
         "/pwa-prototype/manifest.webmanifest",
         "/pwa-prototype/polyfills-FFHMD2TL.js",
         "/pwa-prototype/styles-5INURTSO.css"
@@ -51,8 +51,8 @@
     "/pwa-prototype/icons/icon-512x512.png": "1de182f76f7329dfa8f9fcdd1fdcdd695bea6a99",
     "/pwa-prototype/icons/icon-72x72.png": "aa88a6096bd973be7f6d7a5489bfa6bc2463f8c4",
     "/pwa-prototype/icons/icon-96x96.png": "7fb8f59c30ce2ff12c700321a0b39e14b3dc8f95",
-    "/pwa-prototype/index.html": "8e8034bc40cca806d57387f71c21773876a0ba21",
-    "/pwa-prototype/main-ROPM5QHV.js": "943a95b5447d74cf6cea6fc1cd6867d0170b9a52",
+    "/pwa-prototype/index.html": "3bd0fd4f56f7fd55fb2f8e22c5d2fa4d0c37be78",
+    "/pwa-prototype/main-XE65PNVD.js": "86a7c61bdde21e286f3eb79922f4fb07cb5483f7",
     "/pwa-prototype/manifest.webmanifest": "6b137fc913c2c66ee9d3a3514b63c45501841de4",
     "/pwa-prototype/polyfills-FFHMD2TL.js": "f49b49a155bc7d192db62a4c15d0a612b460a667",
     "/pwa-prototype/styles-5INURTSO.css": "da39a3ee5e6b4b0d3255bfef95601890afd80709"
